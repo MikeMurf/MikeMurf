@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Mike Murphy - @MikeMurf
-- 👀 I’m interested in technology enabled change to help people and organisations improve customer service delivery and business performance.
-- 🌱 I have just completed the Monash Data Analytics Bootcamp achieving an Academic Average of A+.
-- 💞️ I’m looking to collaborate on appropriate initiatives in the above areas.
-- 📫 You can reach me at mikemurf@bigpond.net.au
-
-<!---
-MikeMurf/MikeMurf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Customer Service Delivery Specialist with an international track record of improving customer service delivery and business performance. Collaborative Facilitator who works with clients to solve challenging business problems and deliver sustainable solutions by managing resources, risk and change to deliver agreed outcomes and meet demanding stakeholders’ expectations. Passionate Mentor who delights in seeing people achieve their goals and fulfil their potential. A life-long learner who thrives in diverse multicultural environments. Experienced in the healthcare, pharmaceuticals, IT, telecommunications, local government, not-for-profit and retail design sectors, and excited to find out what can be achieved collaborating on innovative technical change.
